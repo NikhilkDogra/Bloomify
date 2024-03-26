@@ -288,6 +288,8 @@ video{
     }
 
     .about-img {
+        display: flex;
+        align-items: center;
         padding: 40px;
     }
 
